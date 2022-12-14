@@ -2,6 +2,7 @@
 ___
 # Contact info
 - pishchanka.ilona@gmail.com
+- Telegram @anoli_314
 ___
 # About me
 Currently working in healthcare as a pharmacy manager. 
