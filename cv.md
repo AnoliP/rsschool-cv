@@ -6,11 +6,15 @@ ___
 # About me
 Currently working in healthcare as a pharmacy manager. 
 Willing to gain knowledge in a fienld of front-end development. 
-- My strengths:
+My strengths:
+- Love of learning
+- Patience
+- Good communication skills
 ___
 # Skills
 - HTML
 - CSS
+- Javascript
 ___
 # Code exapmle
 ```
