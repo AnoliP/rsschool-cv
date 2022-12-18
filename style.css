@@ -1,8 +1,14 @@
 .page {
-  text-align: center;
+  background-color: rgb(245, 240, 235);
   font-family: "Courier New", Courier, monospace;
   list-style-position: inside;
+  max-width: 70%;
+  margin: 0 auto;
 }
-.header {
+
+.main-header {
   color: #787276;
+}
+a {
+  color: black;
 }
