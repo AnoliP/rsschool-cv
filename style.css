@@ -1,0 +1,14 @@
+.page {
+  background-color: rgb(245, 240, 235);
+  font-family: "Courier New", Courier, monospace;
+  list-style-position: inside;
+  max-width: 70%;
+  margin: 0 auto;
+}
+
+.main-header {
+  color: #787276;
+}
+a {
+  color: black;
+}
